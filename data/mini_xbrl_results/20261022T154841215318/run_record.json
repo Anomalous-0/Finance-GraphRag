@@ -1,0 +1,21 @@
+{
+  "run_time": "2026-10-22T15:48:41.215318-07:00",
+  "python": "3.14.3",
+  "packages": {
+    "pandas": "3.0.5",
+    "edgartools": "5.55.0",
+    "pyarrow": "25.0.1"
+  },
+  "parquet_file": "C:\\Users\\kedar\\OneDrive\\Documents\\GitHub\\Finance-GraphRag\\data\\finreflectkg\\data\\train-00001-of-00103.parquet",
+  "triplet_id": "aapl_2024_page_27_chunk_5_triplet_1",
+  "concept": "us-gaap:ResearchAndDevelopmentExpense",
+  "accession": "0000320193-24-000123",
+  "difference_usd": 1455000000.0,
+  "direction_supported": true,
+  "kg_date_alignment": "Pending manual review; see saved KG dates and XBRL periods",
+  "exact_source_filing_identity": "Not independently confirmed",
+  "saved_input_sha256": {
+    "selected_xbrl_facts.csv": "d02894365b3a147cd4f6f871c08d0e6fb740414566f616021af79e6d09c111ee",
+    "selected_kg_claim.json": "4500324925a05247237686e91fe9beb6d2fe16c2ae6fa39e701f5105f035a8c9"
+  }
+}

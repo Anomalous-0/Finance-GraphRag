@@ -1,0 +1,20 @@
+[
+  {
+    "case": "matching_claim",
+    "expected": "unsat",
+    "status": "unsat",
+    "returncode": 0,
+    "stdout": "unsat\n",
+    "stderr": "",
+    "passed": true
+  },
+  {
+    "case": "wrong_claim",
+    "expected": "sat",
+    "status": "sat",
+    "returncode": 0,
+    "stdout": "sat\n",
+    "stderr": "",
+    "passed": true
+  }
+]

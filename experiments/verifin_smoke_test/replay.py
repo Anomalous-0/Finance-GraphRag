@@ -3,12 +3,11 @@ import subprocess
 from pathlib import Path
 
 
-'''
-Run this in terminal: 
-cd into verifin
-.\.venv\Scripts\python.exe ..\experiments\verifin_smoke_test\replay.py
-
-'''
+###
+###Run this in terminal: 
+###cd into verifin
+###.\.venv\Scripgit -C .. status --shortts\python.exe ..\experiments\verifin_smoke_test\replay.py
+###
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parents[1]
